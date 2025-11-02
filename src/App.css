@@ -110,6 +110,14 @@ body, html {
   width: 100%;
 }
 
+#imagem {
+  width: 80%;
+  height: 80%;
+}
+
+
+
+
 /* ----- Animações ----- */
 @keyframes fadeDown {
   from { opacity: 0; transform: translateY(-30px); }

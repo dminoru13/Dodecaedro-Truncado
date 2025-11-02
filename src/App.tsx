@@ -16,7 +16,7 @@ function App() {
           </section>
 
           <div id="canva" className="canvas-container">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Truncated_dodecahedron_flat.png/330px-Truncated_dodecahedron_flat.png" alt="" />
+             <img id='imagem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Truncated_dodecahedron_flat.png/330px-Truncated_dodecahedron_flat.png" alt="" />
           </div>
         </div>
         
